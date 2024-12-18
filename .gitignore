@@ -1,0 +1,5 @@
+.cache
+cooltify
+pkg
+marbs-cooltify-*
+compile_commands.json
